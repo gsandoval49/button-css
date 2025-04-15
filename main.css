@@ -20,9 +20,10 @@
   outline: none;
   cursor: pointer;
 
+  color: #212121;
+
   padding: 20px 40px;
   border-radius: 8px;
-  color: #212121;
   font-size: 28px;
   font-weight: 600;
   margin: 0 15px;
@@ -50,5 +51,18 @@
 .button-2:hover {
   color: white;
   background-position: 100% 0%;
+}
+
+.button-3 {
+  color: #68DEA0;
+  border: 3px solid #68DEA0;
+  background-image: linear-gradient(to top, transparent 50%, #68DEA0 50%);
+  background-size: 100% 200%; /* sets on x-axis and y-axis */
+  background-position: 0% 100%;
+}
+
+.button-3:hover {
+  color: #FEE;
+  background-position: 0% 0%;
 }
 
