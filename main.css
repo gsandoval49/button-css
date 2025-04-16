@@ -116,8 +116,8 @@
 }
 
 .button-5:hover:after, .button-5:hover:before {
-  width: calc(100% + 10px);
-  height: calc(100% + 10px);
+  width: calc(100% + 20px);
+  height: calc(100% + 20px);
   transition: 0.4s, opacity 0.1s;
   opacity: 1;
 }
