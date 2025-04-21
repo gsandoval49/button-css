@@ -122,3 +122,7 @@
   transition: 0.4s, opacity 0.1s;
   opacity: 1;
 }
+
+.button-5:active {
+  background-color: aquamarine;
+}
