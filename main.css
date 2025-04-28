@@ -66,6 +66,12 @@
   background-position: 0% 0%;
 }
 
+.button-3:active {
+  background-color: #68DEA0;
+  color: black;
+  border: black;
+}
+
 .button-4 {
   color: white;
   background-color: #68A0DE;
