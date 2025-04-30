@@ -53,6 +53,13 @@
   background-position: 100% 0%;
 }
 
+/* Experimenting */
+.button-2:active {
+  color: black;
+  background-position: 0% 0%;
+  background-image: linear-gradient(to right, transparent 100%, #ff024e 50%);
+}
+
 .button-3 {
   color: #68DEA0;
   border: 3px solid #68DEA0;
@@ -69,7 +76,7 @@
 .button-3:active {
   background-color: #68DEA0;
   color: black;
-  border: black;
+  border: 3px solid #ddd;
 }
 
 .button-4 {
