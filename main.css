@@ -55,7 +55,7 @@
 
 /* Experimenting */
 .button-2:active {
-  color: black;
+  color: purple;
   background-position: 0% 0%;
   background-image: linear-gradient(to right, transparent 100%, #ff024e 50%);
 }
